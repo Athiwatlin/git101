@@ -1,2 +1,2 @@
 this is new-1.txt by git 102
-แก้ไข git 102 เพื่อดู conflict
+แก้ไข git 102 เพื่อดู conflict again
